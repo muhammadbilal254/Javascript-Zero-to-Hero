@@ -1,0 +1,1 @@
+let p = fetch('url') //for fetch Api
